@@ -1,0 +1,101 @@
+feridos_leves;feridos_graves;ilesos;pessoas;ignorados;mortos;veiculos;tipo_acidente;fase_dia;causa_acidente;tracado_via;uso_solo;tipo_pista
+1;0;0;1;0;0;1;Saída de leito carroçável;Plena Noite;Ausência de reação do condutor;Reta;Não;Simples
+0;0;0;5;4;1;1;Atropelamento de Pedestre;Plena Noite;Entrada inopinada do pedestre;Reta;Sim;Dupla
+0;1;0;1;0;0;1;Tombamento;Plena Noite;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+0;0;1;1;0;0;1;Tombamento;Pleno dia;Velocidade Incompatível;Curva;Não;Dupla
+0;2;1;3;0;0;2;Colisão frontal;Pleno dia;Acumulo de água sobre o pavimento;Não Informado;Não;Simples
+0;0;1;1;0;0;1;Saída de leito carroçável;Pleno dia;Condutor Dormindo;Não Informado;Sim;Simples
+1;0;3;4;0;0;3;Colisão transversal;Pleno dia;Desrespeitar a preferência no cruzamento;Interseção de vias;Sim;Simples
+0;0;1;1;0;0;1;Incêndio;Plena Noite;Demais falhas mecânicas ou elétricas;Reta;Não;Dupla
+2;0;1;4;1;0;3;Colisão lateral mesmo sentido;Plena Noite;Transitar na contramão;Reta;Não;Dupla
+0;0;2;2;0;0;2;Colisão traseira;Plena Noite;Velocidade Incompatível;Reta;Não;Simples
+0;0;1;1;0;0;1;Incêndio;Plena Noite;Demais falhas mecânicas ou elétricas;Não Informado;Não;Simples
+0;1;1;4;2;0;4;Colisão transversal;Plena Noite;Acessar a via sem observar a presença dos outros veículos;Reta;Sim;Simples
+0;0;1;2;0;1;1;Atropelamento de Pedestre;Pleno dia;Entrada inopinada do pedestre;Reta;Não;Simples
+1;0;1;2;0;0;2;Colisão traseira;Pleno dia;Reação tardia ou ineficiente do condutor;Reta;Não;Múltipla
+2;0;1;3;0;0;2;Colisão transversal;Pleno dia;Acessar a via sem observar a presença dos outros veículos;Reta;Sim;Múltipla
+1;0;1;2;0;0;2;Colisão lateral mesmo sentido;Pleno dia;Acessar a via sem observar a presença dos outros veículos;Reta;Não;Dupla
+2;0;3;5;0;0;3;Engavetamento;Pleno dia;Ausência de reação do condutor;Viaduto;Sim;Simples
+1;0;1;2;0;0;2;Colisão transversal;Pleno dia;Manobra de mudança de faixa;Retorno Regulamentado;Não;Dupla
+1;0;1;2;0;0;2;Colisão lateral sentido oposto;Pleno dia;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+1;0;0;1;0;0;1;Saída de leito carroçável;Pleno dia;Avarias e/ou desgaste excessivo no pneu;Reta;Não;Simples
+1;0;0;1;0;0;1;Tombamento;Pleno dia;Velocidade Incompatível;Não Informado;Não;Dupla
+1;0;0;1;0;0;1;Derramamento de carga;Pleno dia;Demais falhas mecânicas ou elétricas;Não Informado;Não;Simples
+1;2;1;6;0;2;3;Colisão frontal;Pleno dia;Transitar na contramão;Reta;Não;Simples
+1;0;1;2;0;0;2;Colisão traseira;Pleno dia;Ausência de reação do condutor;Não Informado;Não;Dupla
+0;0;1;2;0;1;2;Colisão lateral sentido oposto;Pleno dia;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+1;0;1;3;1;0;2;Colisão traseira;Pleno dia;Reação tardia ou ineficiente do condutor;Curva;Não;Dupla
+1;3;1;5;0;0;3;Colisão frontal;Pleno dia;Transitar na contramão;Não Informado;Não;Simples
+1;1;0;3;0;1;2;Colisão frontal;Pleno dia;Transitar na contramão;Reta;Não;Simples
+2;0;1;3;0;0;2;Colisão frontal;Pleno dia;Pista Escorregadia;Curva;Não;Simples
+1;0;6;8;0;1;5;Colisão traseira;Pleno dia;Reação tardia ou ineficiente do condutor;Reta;Não;Múltipla
+1;0;1;2;0;0;2;Colisão traseira;Pleno dia;Condutor deixou de manter distância do veículo da frente;Reta;Sim;Simples
+2;1;4;8;0;1;5;Tombamento;Pleno dia;Transitar na contramão;Curva;Não;Simples
+1;0;5;6;0;0;3;Colisão lateral mesmo sentido;Pleno dia;Manobra de mudança de faixa;Reta;Não;Dupla
+0;1;2;4;1;0;3;Colisão lateral mesmo sentido;Pleno dia;Trafegar com motocicleta (ou similar) entre as faixas;Reta;Não;Dupla
+1;0;2;3;0;0;2;Colisão traseira;Plena Noite;Ausência de reação do condutor;Não Informado;Não;Dupla
+1;0;1;2;0;0;2;Colisão transversal;Pleno dia;Acessar a via sem observar a presença dos outros veículos;Reta;Sim;Simples
+0;1;1;2;0;0;2;Colisão lateral sentido oposto;Pleno dia;Transitar na contramão;Não Informado;Não;Dupla
+0;0;1;1;0;0;1;Incêndio;Anoitecer;Demais falhas mecânicas ou elétricas;Reta;Não;Dupla
+0;0;1;1;0;0;1;Tombamento;Pleno dia;Pista esburacada;Reta;Não;Simples
+0;1;1;2;0;0;1;Atropelamento de Pedestre;Pleno dia;Pedestre andava na pista;Desvio Temporário;Não;Dupla
+1;0;3;4;0;0;3;Colisão lateral sentido oposto;Plena Noite;Ultrapassagem Indevida;Reta;Não;Simples
+1;0;0;1;0;0;1;Tombamento;Plena Noite;Reação tardia ou ineficiente do condutor;Reta;Não;Dupla
+1;0;0;1;0;0;1;Saída de leito carroçável;Plena Noite;Condutor Dormindo;Não Informado;Não;Simples
+0;1;1;4;2;0;2;Colisão transversal;Plena Noite;Acessar a via sem observar a presença dos outros veículos;Reta;Sim;Simples
+0;1;1;2;0;0;2;Tombamento;Plena Noite;Reação tardia ou ineficiente do condutor;Reta;Não;Simples
+1;0;1;2;0;0;2;Colisão traseira;Plena Noite;Reação tardia ou ineficiente do condutor;Não Informado;Não;Dupla
+2;0;0;2;0;0;2;Colisão frontal;Pleno dia;Acumulo de óleo sobre o pavimento;Não Informado;Não;Dupla
+1;0;2;3;0;0;2;Colisão lateral mesmo sentido;Pleno dia;Manobra de mudança de faixa;Reta;Não;Dupla
+1;0;1;2;0;0;2;Colisão frontal;Amanhecer;Transitar na contramão;Reta;Sim;Dupla
+1;0;0;1;0;0;1;Tombamento;Pleno dia;Carga excessiva e/ou mal acondicionada;Reta;Não;Dupla
+1;0;1;2;0;0;2;Colisão transversal;Pleno dia;Condutor desrespeitou a iluminação vermelha do semáforo;Reta;Sim;Dupla
+1;0;1;2;0;0;2;Colisão transversal;Amanhecer;Acessar a via sem observar a presença dos outros veículos;Não Informado;Não;Simples
+0;2;2;4;0;0;3;Colisão lateral sentido oposto;Pleno dia;Ausência de reação do condutor;Reta;Não;Simples
+1;0;1;3;0;1;3;Engavetamento;Pleno dia;Chuva;Não Informado;Não;Simples
+1;0;1;2;0;0;2;Colisão lateral mesmo sentido;Pleno dia;Manobra de mudança de faixa;Reta;Sim;Dupla
+1;0;0;1;0;0;1;Saída de leito carroçável;Pleno dia;Pista Escorregadia;Não Informado;Não;Simples
+1;0;0;1;0;0;1;Colisão com objeto;Pleno dia;Ausência de reação do condutor;Curva;Sim;Dupla
+0;1;5;6;0;0;2;Colisão traseira;Pleno dia;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+3;0;2;5;0;0;4;Colisão traseira;Pleno dia;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+1;0;0;2;0;1;1;Tombamento;Pleno dia;Mal súbito do condutor;Não Informado;Não;Simples
+1;0;0;1;0;0;1;Tombamento;Pleno dia;Curva acentuada;Curva;Não;Simples
+4;0;1;5;0;0;2;Colisão traseira;Pleno dia;Ausência de reação do condutor;Não Informado;Não;Simples
+1;1;2;4;0;0;1;Saída de leito carroçável;Pleno dia;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+0;1;5;6;0;0;5;Tombamento;Pleno dia;Ausência de reação do condutor;Reta;Não;Simples
+0;0;3;3;0;0;2;Colisão transversal;Pleno dia;Desrespeitar a preferência no cruzamento;Reta;Sim;Simples
+1;0;1;2;0;0;1;Saída de leito carroçável;Pleno dia;Chuva;Reta;Não;Simples
+1;0;6;7;0;0;3;Colisão lateral sentido oposto;Pleno dia;Transitar na contramão;Curva;Não;Simples
+0;0;1;2;0;1;2;Tombamento;Pleno dia;Reação tardia ou ineficiente do condutor;Reta;Sim;Dupla
+0;1;1;2;0;0;2;Colisão traseira;Pleno dia;Ausência de reação do condutor;Não Informado;Sim;Dupla
+1;0;4;5;0;0;2;Colisão traseira;Pleno dia;Condutor deixou de manter distância do veículo da frente;Reta;Não;Simples
+2;0;0;3;1;0;3;Colisão traseira;Pleno dia;Ausência de reação do condutor;Não Informado;Sim;Simples
+0;1;2;3;0;0;3;Colisão lateral sentido oposto;Pleno dia;Ausência de reação do condutor;Não Informado;Não;Simples
+1;0;1;2;0;0;2;Colisão traseira;Pleno dia;Manobra de mudança de faixa;Reta;Não;Simples
+2;0;2;4;0;0;2;Colisão frontal;Anoitecer;Avarias e/ou desgaste excessivo no pneu;Curva;Não;Simples
+1;0;3;4;0;0;3;Colisão lateral mesmo sentido;Pleno dia;Velocidade Incompatível;Não Informado;Não;Simples
+2;0;1;3;0;0;2;Colisão lateral sentido oposto;Plena Noite;Pista Escorregadia;Curva;Não;Simples
+1;0;0;1;0;0;1;Tombamento;Pleno dia;Velocidade Incompatível;Curva;Não;Simples
+1;0;0;1;0;0;1;Saída de leito carroçável;Plena Noite;Reação tardia ou ineficiente do condutor;Curva;Não;Dupla
+1;0;0;1;0;0;1;Tombamento;Pleno dia;Ausência de reação do condutor;Não Informado;Não;Simples
+0;0;1;1;0;0;1;Saída de leito carroçável;Pleno dia;Obstrução na via;Reta;Não;Simples
+1;0;0;1;0;0;1;Colisão com objeto;Pleno dia;Ausência de reação do condutor;Reta;Não;Dupla
+2;0;0;3;1;0;2;Colisão traseira;Plena Noite;Ausência de reação do condutor;Não Informado;Sim;Dupla
+0;2;0;2;0;0;1;Tombamento;Pleno dia;Velocidade Incompatível;Não Informado;Não;Simples
+0;1;1;2;0;0;2;Colisão traseira;Plena Noite;Ausência de reação do condutor;Reta;Não;Dupla
+0;1;4;6;1;0;2;Atropelamento de Pedestre;Plena Noite;Ausência de reação do condutor;Reta;Não;Simples
+1;0;0;1;0;0;1;Tombamento;Plena Noite;Chuva;Rotatória;Sim;Simples
+1;0;0;1;0;0;1;Saída de leito carroçável;Plena Noite;Chuva;Reta;Não;Simples
+1;0;0;2;1;0;2;Colisão traseira;Pleno dia;Condutor deixou de manter distância do veículo da frente;Reta;Sim;Dupla
+1;0;1;2;0;0;2;Tombamento;Pleno dia;Avarias e/ou desgaste excessivo no pneu;Reta;Sim;Dupla
+0;1;1;2;0;0;2;Eventos atípicos;Pleno dia;Demais falhas mecânicas ou elétricas;Reta;Não;Dupla
+1;0;0;1;0;0;1;Tombamento;Amanhecer;Reação tardia ou ineficiente do condutor;Não Informado;Não;Simples
+0;0;21;22;0;1;2;Colisão lateral sentido oposto;Amanhecer;Transitar na contramão;Reta;Não;Simples
+0;0;1;4;2;1;2;Colisão frontal;Pleno dia;Ultrapassagem Indevida;Curva;Não;Simples
+1;0;0;1;0;0;1;Saída de leito carroçável;Pleno dia;Reação tardia ou ineficiente do condutor;Reta;Não;Dupla
+2;0;2;4;0;0;1;Saída de leito carroçável;Pleno dia;Pista Escorregadia;Não Informado;Sim;Dupla
+0;0;1;1;0;0;1;Derramamento de carga;Pleno dia;Afundamento ou ondulação no pavimento;Reta;Não;Simples
+0;0;1;2;0;1;2;Colisão lateral mesmo sentido;Pleno dia;Trafegar com motocicleta (ou similar) entre as faixas;Reta;Não;Dupla
+1;0;1;2;0;0;2;Colisão transversal;Pleno dia;Acessar a via sem observar a presença dos outros veículos;Não Informado;Sim;Simples
+0;0;1;1;0;0;1;Colisão com objeto;Pleno dia;Ausência de reação do condutor;Reta;Não;Dupla
+0;0;2;2;0;0;2;Colisão lateral mesmo sentido;Pleno dia;Chuva;Não Informado;Não;Dupla
